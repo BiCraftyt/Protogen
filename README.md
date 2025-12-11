@@ -54,9 +54,9 @@ To execute the desired face you need to be inside of
 
 "yourusername/rpi-rgb-led-matrix/bindings/python/samples" 
 
-and execute the code
+and execute the code:
 
- "sudo python3 image-viewer.py *name_of_your_image.jpg or .png*
+   "sudo python3 image-viewer.py *name_of_your_image.jpg or .png*
 
 ## To create your own custom face expressions I recommend using Paint.net
 
