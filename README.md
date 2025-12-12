@@ -55,10 +55,9 @@ and execute the code:
 
 ## To create your own custom face expressions I recommend using Paint.net
 
-Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: Images/paintNET.png 
 
 It's basically a free sowftware for Windows that works very well. 
 
